@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;900&display=swap');
+
+body {
+    background-color: rgb(103, 113, 90);
+    font-family: 'Source Code Pro', monospace;
+    color: rgb(255, 230, 211);
+    padding-top: 1%;
+    padding-right: 3%;
+    text-align: right;
+}
+
+#parrafo {
+    padding-bottom: 0%;
+    text-align: center;
+    color: rgb(210, 150, 121);
+}
+
+h1 {
+    padding-top: 2%;
+    font-size: 5em;
+    text-align: center;
+}
+
